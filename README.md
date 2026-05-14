@@ -16,6 +16,8 @@
 | `07_join_union_practice_queries.sql` | JOIN과 UNION을 활용한 실습 쿼리 |
 | `08_ddl_dml_constraints.sql` | UPDATE, DELETE, ALTER TABLE, PRIMARY KEY, FOREIGN KEY, CASCADE 제약조건 실습 |
 
+SQL 파일들은 `medical-database-sql-practice/` 폴더 안에 정리되어 있습니다.
+
 ## Main Topics
 
 - Basic SQL queries
